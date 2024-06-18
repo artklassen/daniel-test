@@ -1,0 +1,152 @@
+body { font-family: "Plus Jakarta Sans"; color:black;}
+
+#header {
+    padding: 60px 120px 60px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(3px);
+}
+.logo-sign { font-size: 18px; font-weight: bold;}
+li{
+    display: inline;
+    list-style: none;
+    margin: 50px;
+    font-size: 20px;
+}
+
+a{text-decoration: none; color: black;}
+
+button{
+    padding: 15px 20px 15px 20px;
+    border-radius: 15px;
+    font-size: 17px;
+}
+#contact-me {
+    width: 135px;
+    height: 45px;
+}
+.brickwallimage{display: block; margin-left: auto;margin-right: auto; border-radius: 25px;}
+.main-image{
+    width:1040px;
+    height: 360px;
+    padding-bottom: 40px;
+    border-radius: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+h1, h2{display: inline;}
+
+h1{font-size: 40px;text-align: center;}
+h2{text-align: center;
+    font-size: 40px;padding: 20px 0 20px 0;text-align: center;}
+
+#get-touch{width: 200px; height: 65px; text-align: center;}
+.myworks {text-align: center;margin-top: 35px;}
+.cards{ margin-top: 40px; justify-content: center; display: flex;}
+
+.card { display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: auto;
+    margin: 30px;
+    border-radius: 25px;
+    background-color:rgb(220, 244, 245);
+}
+
+.inside-card{
+    height: 175px;
+    padding: 25px;
+}
+h3{font-size: 22px;}
+h4{font-size: 22px;}
+
+#button-learn{
+    padding: 12px 20px 12px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+    width: 135px;
+}
+
+table {
+    margin: 60px 120px 0px 120px ;
+    display: flex;
+    justify-content: center;
+}
+
+.workprogress {text-align: center;}
+
+#step-separate {
+    text-align: left;
+}
+
+#number-circle{
+    font-size: 25px;
+    border-radius: 25px;
+    width: 35px;
+    padding: 5px;
+    border: 3px solid;
+    text-align: center;
+}
+
+#step-describe {
+    font-size: 20px;
+    font-style: italic;
+    padding-top: 20px;
+    border-top: 1px solid;
+}
+
+.stayintouch {
+    text-align: center;
+}
+
+
+#name, #email, #message{
+    display:inline-block;
+    width: 200px;
+    height: 35px;
+    padding-left: 10px;
+    margin: 10px 20px 20px 10px;
+    background-color:aquamarine;
+}
+
+#button-sendmessage{
+    padding: 15px 30px 20px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    width: 230px;
+}
+#footer{
+    padding: 15px 30px 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
